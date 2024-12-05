@@ -1,0 +1,7 @@
+{
+  "name": "Ecommobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
